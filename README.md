@@ -1,2 +1,0 @@
-# Tm-bot
-TM BOT
